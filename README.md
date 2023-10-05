@@ -1,6 +1,6 @@
-Hello, I'm Maria Tsvetkova
+Hello, I'm Mariya Tsvetkova
 
- I am currently studying Software Engineering at Softuni.
+ I am currently studying Software Engineering with C# at Softuni.
   - I work as a currency cashier.
    - Happy mom of two boys.
 <!---
