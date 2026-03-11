@@ -60,3 +60,7 @@ https://github.com/merry84/LifeAdminWeb
 ---
 
 ⭐ Always learning and improving my skills in software development and cloud technologies.
+## Status
+
+This project is actively being improved as part of the ASP.NET Advanced course at SoftUni.
+New features and architectural improvements will be added.
