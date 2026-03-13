@@ -48,8 +48,29 @@ A productivity web application for managing tasks, notes and categories.
 ✔ Category organization  
 ✔ Secure user data  
 
-🔗 **GitHub Repository**  
+🔗 Repository  
 https://github.com/merry84/LifeAdminWeb
+
+---
+
+#### EuroCheck – Flutter Mobile Application
+
+Mobile application for checking and converting prices between Bulgarian Lev (BGN) and Euro (EUR).
+
+**Technologies**
+
+- Flutter  
+- Dart  
+- REST API  
+
+**Features**
+
+✔ Currency conversion  
+✔ Simple mobile interface  
+✔ Quick price verification  
+
+🔗 Repository  
+https://github.com/merry84/EuroCheck
 
 ---
 
@@ -60,7 +81,3 @@ https://github.com/merry84/LifeAdminWeb
 ---
 
 ⭐ Always learning and improving my skills in software development and cloud technologies.
-## Status
-
-This project is actively being improved as part of the ASP.NET Advanced course at SoftUni.
-New features and architectural improvements will be added.
