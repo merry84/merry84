@@ -48,6 +48,10 @@ A productivity web application for managing tasks, notes and categories.
 ✔ Category organization  
 ✔ Secure user data  
 
+**Status**
+
+🚧 Currently being improved as part of the ASP.NET Advanced course at SoftUni.
+
 🔗 Repository  
 https://github.com/merry84/LifeAdminWeb
 
